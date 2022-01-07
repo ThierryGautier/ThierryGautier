@@ -13,7 +13,7 @@ This robot is able to:
 I learn a lot of things during this developpement.
 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me thierry.gautier@gmail.com
+- 📫 How to reach me thierry.gautier44@gmail.com
 
 <!---
 ThierryGautier/ThierryGautier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
